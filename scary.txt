@@ -1,0 +1,76 @@
+Start.CommenceHACK
+dir./user/psn.API.
+remove dir.var
+saveData//;
+ ]createVar
+  'var.name = loginInformation;
+  if loginInformation = ["NULL"]
+  save dir//run
+  run.var.saveData//;
+  if gameProgress = internal//dir;
+  /users/psn."loginInformation =
+
+  {
+     name<dir>
+     clearDir<>//Permanant
+     alert{;CLEAR;}
+<>
+<>
+<script/>
+<DOCTYPE PHP!>
+SaveData = false
+if. LoginAttempted
+print[error]
+grant = false;;
+remove grant<>/
+
+grant<>
+<script/>
+if img<>src."psn.com"{grant}
+saveData = runfile.EXECUTE<MAIN>//
+
+//placeGame
+RetreiveUSERDATA
+Extractdata.USER..JSON = file.consolePass+Username<> = {}
+run dir
+   ]var saveData = false
+<>if<>
+gov.login = -(null)
+
+   {removeData{}
+grant>false<>
+            killData>;
+PlayStationAPI<>DATA = null.removeData]
+dir<setRuntimes>.=true{}
+removeAccess = <y;x>
+
+extract<UserData>
+input<null(userData)>?/
+  
+  {}
+extractData.dir
+fetch"UsrData/var/"{}
+fetch[var]
+run "fetch"[]
+print.input{switchlang.PY//}
+fetchData@..createFetch={true}
+fetch@{}
+createVar/Delete{}
+
+  [delete
+@var</>
+<O00>
+    
+print@x
+
+            print{}null
+msg]ACCOUNT  SUCCESFULLY REMOVED{
+print[varDelete]
+runVar[]
+           {}print<hackAPI>{fetch}"gameData'//>dir.runFetch..createdir//runtimes = runtimesTrue{}retrieveOS=false;fetchData{delete}ACC./run/trueRunFetch/UserDataGrant.JSON/createdir = true/run/
+SuccesfullyDelete = true//runtimes = true./run/
+x,y,z = varName{"coords"}
+/<run>\
+|||runNamevar|||
+{]null
+nullData_FALSE
